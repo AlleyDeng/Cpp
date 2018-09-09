@@ -1,2 +1,2 @@
 # Cpp
-Codes writed when learning Cpp.
+Code writed when learning Cpp.
